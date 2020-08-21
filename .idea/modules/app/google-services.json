@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794474965612",
+    "firebase_url": "https://keep-firebase.firebaseio.com",
+    "project_id": "keep-firebase",
+    "storage_bucket": "keep-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794474965612:android:ada3a68acf8c3f1e1f8649",
+        "android_client_info": {
+          "package_name": "com.example.keepnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794474965612-f4t3u5lnopstvme1cpojtpbqgic1ki7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keepnotes",
+            "certificate_hash": "682e8b8a91f2c330120edb5f7f567463a5cabfe0"
+          }
+        },
+        {
+          "client_id": "794474965612-75p5t5qh887nuuhdpgueqrkk7bof4jha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uFwI5H1U5d4C4RWe5TvBpZ-EYOo5Sbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794474965612-75p5t5qh887nuuhdpgueqrkk7bof4jha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
